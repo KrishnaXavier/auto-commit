@@ -3,8 +3,11 @@
 while :
 do
 
-	sleep %1
+	sleep $1
 
-	source auto-commit.bat "Data: %date% - Hora: %time%"
+	d=$(date +%Y/%m/%d)
+	h=$(date +%T)
+
+	source auto-commit.sh "Data: $d - Hora: $h"
 
 done
