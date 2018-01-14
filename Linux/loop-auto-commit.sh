@@ -3,7 +3,7 @@
 while :
 do
 
-	SLEEP %1
+	sleep %1
 
 	source auto-commit.bat "Data: %date% - Hora: %time%"
 
