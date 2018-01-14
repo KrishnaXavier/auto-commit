@@ -1,7 +1,7 @@
 # Auto Commit
 A line to write to your project.
 
-##Windows
+## Windows
 <ul>
   <li>Abra seu terminal</li>
   <li>Navegue até a pasta do seu projeto</li>
@@ -34,7 +34,7 @@ loop-auto-commit.bat 3600
 
 <img src="README_images/ex-windows-loop.png" />
 
-##Linux
+## Linux
 
 <ul>
   <li>Abra seu terminal</li>
@@ -54,7 +54,7 @@ loop-auto-commit.bat 3600
 
 <img src="README_images/ex-linux.png" />
 
-###<i>Commite</i> periódico
+### <i>Commite</i> periódico
 
 <ul>
   <li>Abra seu terminal</li>
