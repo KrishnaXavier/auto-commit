@@ -1,7 +1,15 @@
 # Auto Commit
 A line to write to your project.
 
+<h3>Auto Commit pode ser usado de 2 formas: </h3>
+<br>Commit em uma linha: ``` bash auto-commit "seu comentario do commit" ```
+<br>Commit periódico: ``` bash loop-auto-commit.bat segundos" ```
+
+
 ## Windows
+
+### Commit em uma linha
+
 <ul>
   <li>Abra seu terminal</li>
   <li>Navegue até a pasta do seu projeto</li>
@@ -13,6 +21,8 @@ auto-commit.bat "seu comentario do commit"
 ```
 
 <img src="README_images/ex-windows.png" />
+
+### Commit periódico
 
 Para os programadores preguiçosos ou esquecidos temos a opção de commitar a cada x segundos.
 <ul>
@@ -36,6 +46,8 @@ loop-auto-commit.bat 3600
 
 ## Linux
 
+### Commit em uma linha
+
 <ul>
   <li>Abra seu terminal</li>
   <li>Navegue até a pasta do seu projeto</li>
@@ -54,7 +66,7 @@ loop-auto-commit.bat 3600
 
 <img src="README_images/ex-linux.png" />
 
-### <i>Commite</i> periódico
+### Commit periódico
 
 <ul>
   <li>Abra seu terminal</li>
@@ -73,6 +85,5 @@ loop-auto-commit.bat 3600
     loop-auto-commit.sh segundos
   ```
 </ul>
-
 
 <img src="README_images/ex-linux-loop.png" />
