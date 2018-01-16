@@ -1,3 +1,4 @@
+REM[source project: https://github.com/KrishnaXavier/auto-commit]
 :inicio-loop
 
 	TIMEOUT %1
