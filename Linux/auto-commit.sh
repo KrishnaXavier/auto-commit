@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# source project: https://github.com/KrishnaXavier/auto-commit
+
 git add .
 
 git status
