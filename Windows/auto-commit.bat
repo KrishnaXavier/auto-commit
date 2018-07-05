@@ -5,4 +5,4 @@ git status
 
 git commit -a -m %1
 
-git push
+git push origin master
